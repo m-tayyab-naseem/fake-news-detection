@@ -1,0 +1,11 @@
+[
+  {
+    "text": "US weather forecasting is more crippled than previously known as hurricane season nears",
+    "prediction": "Fake",
+    "confidence": "98.78%",
+    "probabilities": {
+      "real": "1.22%",
+      "fake": "98.78%"
+    }
+  }
+]
